@@ -1,0 +1,13 @@
+How to Use;
+Install Dependencies:
+Make sure you have Python and the requests library installed. Install requests if not already available:
+
+Copy code : pip install requests
+Enable Gmail Access:
+For Gmail, enable "Allow less secure apps" or generate an App Password from your Google account for enhanced security.
+
+Run the Script:
+Save the code in a file (e.g., trading_alert.py) and run it:
+
+Copy code : python trading_alert.py
+Set Thresholds: Input your desired upper and lower thresholds when prompted.
